@@ -14,6 +14,7 @@
 - 4.github无密钥登陆配置(git bash下)：SSH授权或HTTPS<br />
    - 4.1.生成ssh key：ssh-keygen -t rsa -b -C "<15663456952@163.com>"（一直回车接下来）<br />
    - 4.2.C:\Users\15732\.ssh\id_rsa.pub查看公钥，添加到：[github官网](http://github.com)<br />
+   - 4.3
 ## 学习使用markdown基本语法
    - **标题**：#一级标题   ##二级标题   ###三级标题 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;依此类推<br/>
    - **引用**：\>+空格+引用内容&nbsp;&nbsp;&nbsp;强调加粗：** 强调内容 ** &nbsp;&nbsp;&nbsp;* 斜体 * &nbsp;&nbsp;&nbsp; *** 加粗且斜体 ***
