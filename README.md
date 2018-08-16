@@ -9,6 +9,7 @@
 - git clone---**[SSH地址]，在当前目录下下载x.git文件**<br />
 - pwd查看文件目录----git add .把文件添加进缓冲区---git commit -m "提交到本地仓库写日志"<br />
 - git push "http方式(github账号上查看)" master将文件推送到远程仓库<br />
+- ls查看所在文件夹下的目录
 ## git安装与基本配置：
 - 1.按网上教程从git官网下载并安装git<br />
 - 2.安装成功并配置环境变量C:\Program Files\Git\cmd(cmd命令窗口检测)<br />
