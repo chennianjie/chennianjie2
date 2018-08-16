@@ -1,4 +1,4 @@
-# 20180815学习总结
+# 学习总结
 ## git常用命令：
 - git config --global user.name "名字"/git config --global user.email "邮箱"---**配置用户名和邮箱**<br />
 - git config --global user.name/git config --global user.email---**查看名字或邮箱**<br />
