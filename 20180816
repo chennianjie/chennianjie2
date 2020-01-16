@@ -1,7 +1,0 @@
-
-### Maven目录分析
-- bin：含有mvn运行的脚本
-- boot：含有plexus-classworlds类加载器框架
-- conf：含有settings.xml配置文件
-- lib：含有Maven运行时所需要的java类库
-- LICENSE.txt, NOTICE.txt, README.txt针对Maven版本，第三方软件等简要介绍
